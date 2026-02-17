@@ -5,7 +5,7 @@ Founder @ Pulse Partners. (multi-6-figs consulting company)
 Worlwide AI Hackathon Winner (EPFL-Idiap 2023) 
 Former Data Scientist at Predictive Layer (acq. by Total Energy) (2021–2022). 
 Ex‑EPFL (2021). 
-Built AI systems driving $5M+ annual revenue cumulated.
+Built AI systems driving $1M+ annual revenue.
 Creator of smartinterview (500K+ users, 20+ cumulated clients). 
 CPGE (Mathematics & Phsyics). 
 
